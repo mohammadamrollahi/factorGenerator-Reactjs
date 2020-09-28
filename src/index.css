@@ -1,0 +1,10 @@
+@font-face {
+  src:url("./Assets/BYekan+.ttf");
+  font-family:"yekan";
+
+}
+*{
+  font-family: yekan;
+  direction: rtl;
+  text-align: right;
+}
